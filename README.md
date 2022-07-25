@@ -1,2 +1,2 @@
 # ACAProject
-ACA Projectt - Slack app
+ACA Project - Slack app
